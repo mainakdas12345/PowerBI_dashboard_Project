@@ -5,7 +5,9 @@ This repository contains the Power BI Dashboard project that I created using the
 The goal of this project is to leverage Power BI's powerful features and capabilities to analyze and visualize the Global Superstore dataset. The dataset consists of sales data from a global retail company, including information about customers, products, orders, and regions.
 # Key Features
 
-Data Integration: Connected the dataset with Power BI Desktop, ensuring seamless integration for efficient analysis.
+# Data Integration:
+
+Connected the dataset with Power BI Desktop, ensuring seamless integration for efficient analysis.
 
 Data Analysis: Analyzed tables and established meaningful relationships to uncover insights and correlations within the dataset.
 
